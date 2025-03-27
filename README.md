@@ -57,6 +57,7 @@ To train the model on CIFAR-10:
    
 ### Example Training Output
 ```bash
+(Iteration 181 / 200) loss: 1.679291
 (Epoch 1 / 1) train acc: 0.426000; val_acc: 0.408000
 Training time: 299.986317s
 ```
@@ -64,5 +65,5 @@ The trained filters look as follows,
 
 ![image](https://github.com/user-attachments/assets/612f4068-80c7-438f-8b7b-9e7c72d1b3b2)
 
-Further improvements can be done by parallelizing the remaining for loops. The repositoy also contains a closely similar CNN model built using PyTorch for reference.
+Further improvements can be done by parallelizing the remaining for loops. The repository also contains a closely similar CNN model built using PyTorch for reference.
 
