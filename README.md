@@ -1,4 +1,4 @@
-# Numpy CNN Implementation
+# CNN for image classification from scratch using NumPy
 
 This repository contains an implementation of a Convolutional Neural Network (CNN) using **numpy**. The network is designed for **image classification** tasks, and includes features such as **Batch Normalization** and **backpropagation**.
 
