@@ -1,0 +1,10 @@
+PILLOW
+matplotlib
+IPython
+future
+six
+imageio
+numpy
+platform
+pickle
+torch #for data loading
